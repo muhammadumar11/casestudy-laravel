@@ -1,4 +1,4 @@
-## Advertiser Task 
+## Advertiser Task Assignment
 
 Use Laravel framework to get the job done. The only constraint is that your application needs to run on our local machine (see below how we will run your code).
 
@@ -11,7 +11,7 @@ TASKS - Your code needs to fulfil the following requirements:
 3. Make the code easily extensible to new advertisers (APIs).
 4. Provide unit and/or integration tests for your code.
 
-Note: 
+Note Please: 
 - Your code should be reliable in case the API is down.
 - (Dockerize the application.) if possible
 - Your code will include OOP implementation, including interfaces and design patterns. Namespaces, closures, and anonymous functions.
